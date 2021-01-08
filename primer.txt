@@ -1,5 +1,7 @@
-Este es un archivo simpe
+Este es un archivo simple
 
 por eso es una prueba, es la segunda ahora
 
 ya deberia ser mas grande el archivo
+
+vamos a meter a nueva linea
