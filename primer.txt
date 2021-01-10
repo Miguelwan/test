@@ -11,4 +11,5 @@ esto es para crear una rama, voy a intentar una nueva rama
 esto deberia estar en una rama nueva
 
 A ver si puedo ahcer merge
-esto es para sicronizar github
+esto es para sicronizar github 2
+
